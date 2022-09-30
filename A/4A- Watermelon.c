@@ -5,4 +5,5 @@ scanf("%d",&w);
 if (w>2 && w%2==0)
 printf("YES");
 else
-printf("NO");}
+printf("NO");
+return 0;}
